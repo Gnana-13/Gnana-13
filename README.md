@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gnana-13
 - 👀 I’m interested in vlsi and embedded systems
 - 🌱 I’m currently studying final year...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m interested to know more about vlsi
 - 📫 You can reach me through my mail yarrasanignanaprasanna@gmail.com
 
 <!---
